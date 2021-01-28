@@ -22,3 +22,6 @@ Objective:
 <h2>B. PLANNING THE PROJECT<h2>
   
 i) Project Management Lifecycle
+
+Work Breakdown Structure:
+<p align="center"><img src = "https://github.com/fikrunamin/Dental-and-Mouth-Medical-Chatbot/tree/main/images/WBS.PNG"><p>
