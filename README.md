@@ -99,26 +99,42 @@
 ## D.  EXECUTING THE PROJECT
 
 **Project Design and coding**
-- [ ]   [INSERT your Design - Diagrams]
+- [ ]   Chatbot Diagram
 
-![Coding](https://d2h0cx97tjks2p.cloudfront.net/blogs/wp-content/uploads/sites/2/2020/07/python-project-real-time-face-mask-detection.jpg)
+![Diagram](https://github.com/fikrunamin/Dental-and-Mouth-Medical-Chatbot/blob/main/images/diagram.PNG)
 
-- [ ]   [INSERT your coding - screen capture of your coding]
+- [ ]   Source Code
 
-![Coding](https://codinglab.jp/wp-content/uploads/2018/05/python.png)
+
+Cleaning Text
+
+![Cleaning Text](https://github.com/fikrunamin/Dental-and-Mouth-Medical-Chatbot/blob/main/images/cleaning_text.png)
+
+Training Text
+
+![Traning Data](https://github.com/fikrunamin/Dental-and-Mouth-Medical-Chatbot/blob/main/images/train.png)
 
 
 **Project Result**
-- [ ]   [INSERT your output or result from your project]
+- []  Result
+
+Dashboard & Consultation Chatbot
+
+![Result](https://github.com/fikrunamin/Dental-and-Mouth-Medical-Chatbot/blob/main/images/result.png)
+
+Medical Report
+
+![Result](https://github.com/fikrunamin/Dental-and-Mouth-Medical-Chatbot/blob/main/images/result2.png)
+
 
 
 ## E.  COMPLETING THE PROJECT
 
 **Closing Checklist**
-- [ ]   i. [INSERT Acceptance/Project Completion Form Sign-Off (insert FORM)]
-- [ ]   ii. [INSERT Lessons Learned Document (insert DOC)]
-- [ ]   iii. [INSERT Final Project Report (insert REPORT))]
-- [ ]   iv. [IClose Contract (insert CONTRACT))]
+- [ ]   i. [Acceptance/Project Completion Form Sign-Off](https://github.com/fikrunamin/Dental-and-Mouth-Medical-Chatbot/blob/main/images/SignOff.PNG)
+- [ ]   ii. [Lessons Learned Document](https://github.com/fikrunamin/Dental-and-Mouth-Medical-Chatbot/blob/main/Lab%20Work/Project%20Closing.pdf)
+- [ ]   iii. [Final Project Report](https://github.com/fikrunamin/Dental-and-Mouth-Medical-Chatbot/edit/main/README.md)
+- [ ]   iv. [Close Contract](https://github.com/fikrunamin/Dental-and-Mouth-Medical-Chatbot/blob/main/Lab%20Work/Procurement%20Management.pdf)
 
 
 ## F.   PROJECT PRESENTATION 
