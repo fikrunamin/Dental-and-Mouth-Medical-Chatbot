@@ -51,7 +51,12 @@
 ![Responsibility Assignment Matrices](https://github.com/fikrunamin/Dental-and-Mouth-Medical-Chatbot/blob/main/images/RAM.PNG)
 
 
-- [Insert List for each of the members for their Roles and Responsibilities).]
+| 	Name	  			|      	Role		      |
+|---------------------------------------|-----------------------------|
+| Mohd Hariz Bin Abdul Malek 		| Project Manager             |
+| Muhammad Harraz bin Harun             | Financial Admin             |
+| Meor Amirul Ashraf bin Jamalulail     | Data Analyst                |
+| Muhammad Fikrun Amin            	| Software Engineer           |
 	
 
 - [ ]  **Project Planning Summary:**
