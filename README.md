@@ -70,24 +70,30 @@
 
 - [ ]  **Deliverables:**
 
-- [insert] Define specific completed deliverables by the end of the project.
-- [insert]
-- [insert]
+- Successfully detect disease
+- Web Dashboard Design
+- Disease Model
 
 - [ ]   **Tasks and Estimated Costs**
 
 | Task | Estimated Costs | Notes |
 |------|-----------------|-------|
-|Furniture|$1,000| |
-|Decorations|$250|*wall art*|
-|**TOTAL**|**$1,250**|*estimated*|
+| Acquisition |RM250 600.00| Hardware, Software |
+| Design |RM 4 260.00|Dataset, License|
+| Restoration |RM 153 500.00|Administration, Insurance|
+|**TOTAL**|**RM408 360**|*estimated*|
 
 
 - [ ]   **Milestone Chart**
 
 | Milestone | Scheduled Completion | Actual Completion |
 |-----------|----------------------|-------------------|
-|           |                      |                   |
+| Analysis on Problem | 12 October 2020 - 20 October 2020 | 20 October 2020 |
+| Getting Data | 21 October 2020 - 25 October 2020 | 25 October 2020 |
+| Planning and Budgeting | 26 October 2020 - 1 November 2020 | 1 November 2020 |
+| Implementation | 2 November 2020 - 18 December 2020 | 18 December 2020 |
+| Project Result & Report | 18 December - 24 December 2020 | 24 December 2020 |
+| Project Submission | 25 December 2020 | 25 December 2020 |
 
 
 ## D.  EXECUTING THE PROJECT
