@@ -27,9 +27,13 @@
 ##  B. PLANNING THE PROJECT 
 
 - [ ]  **Project Management Life-Cycle**
-- WBS
+- Work Breakdown Structure (WBS)
 
-![Gantt Chart](https://github.com/fikrunamin/Dental-and-Mouth-Medical-Chatbot/blob/main/images/WBS.PNG)
+![Work Breakdown Structure](https://github.com/fikrunamin/Dental-and-Mouth-Medical-Chatbot/blob/main/images/WBS.PNG)
+
+- Gantt Chart
+
+![Gantt Chart](https://github.com/fikrunamin/Dental-and-Mouth-Medical-Chatbot/blob/main/images/GanttChart.PNG)
 
 
 - [ ] **Risk Identification Chart** (Quality, Cost, Time)
