@@ -38,11 +38,11 @@
 
 - [ ] **Risk Identification Chart** (Quality, Cost, Time)
 
-| Control Element | What is likely to go wrong? | How and when will I know? | What will I do about it? |
-|-----------------|-----------------------------|---------------------------|--------------------------|
-| Quality         |                             |                           |                          |
-| Cost            |                             |                           |                          |
-| Time            |                             |                           |                          |
+| Control Element | What is likely to go wrong?                            | How and when will I know?               | What will I do about it?                                                   |
+|-----------------|--------------------------------------------------------|-----------------------------------------|----------------------------------------------------------------------------|
+| Quality         |  Inaccurate predicting the disease                     |  When we do the maintenance             | We will trained our chatbot again and add a new dataset to the old dataset |
+| Cost            | High demand hardware to make our chatbot more accurate | When the cost more than our prediction  | Get the sponsor                                                            |
+| Time            | Time to train the chatbot model tooks to much time     | When we will going to train the chatbot | Train the chatbot earlier before the time to used it 			  |
 
 
 - [ ]  **Responsibility Assignment Matrices (RAM) :**
@@ -61,9 +61,9 @@
 
 - [ ]  **Project Planning Summary:**
 
-| Modules/Components | Budget | Schedule | Responsibility |
-|--------------------|--------|----------|----------------|
-|                    |        |          |                |
+| Modules/Components |  Budget  | Schedule 			     | Responsibility 				     |
+|--------------------|----------|----------|-------------------------|-----------------------------------------------|
+| Chatbot System     | RM408360 | 15 October 2020 - 25 December 2020 | Collect Data, Build Model, & Training Testing |
 
 
 ## C.  IMPLEMENTING THE PROJECT PLAN 
