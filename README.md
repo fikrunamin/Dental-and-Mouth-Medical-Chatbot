@@ -116,7 +116,7 @@ Training Text
 
 
 **Project Result**
-- []  Result
+- [ ]  Result
 
 Dashboard & Consultation Chatbot
 
