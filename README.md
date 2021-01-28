@@ -33,7 +33,7 @@
 
 - Gantt Chart
 
-![Gantt Chart](https://github.com/fikrunamin/Dental-and-Mouth-Medical-Chatbot/blob/main/images/GanttChart.PNG)
+![Gantt Chart](https://github.com/fikrunamin/Dental-and-Mouth-Medical-Chatbot/blob/main/images/Gantt%20Chart.PNG)
 
 
 - [ ] **Risk Identification Chart** (Quality, Cost, Time)
@@ -46,7 +46,8 @@
 
 
 - [ ]  **Responsibility Assignment Matrices (RAM) :**
-- [insert RAM Table include Resource Responsibility, Task/Deliverable (attach a Screen capture of the table).]
+- RAM
+![Responsibility Assignment Matrices](https://github.com/fikrunamin/Dental-and-Mouth-Medical-Chatbot/blob/main/images/RAM.PNG)
 - [Insert List for each of the members for their Roles and Responsibilities).]
 	
 
