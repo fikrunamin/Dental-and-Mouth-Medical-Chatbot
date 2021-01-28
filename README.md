@@ -62,7 +62,7 @@
 - [ ]  **Project Planning Summary:**
 
 | Modules/Components |  Budget  | Schedule 			     | Responsibility 				     |
-|--------------------|----------|----------|-------------------------|-----------------------------------------------|
+|--------------------|----------|------------------------------------|-----------------------------------------------|
 | Chatbot System     | RM408360 | 15 October 2020 - 25 December 2020 | Collect Data, Build Model, & Training Testing |
 
 
