@@ -47,7 +47,10 @@
 
 - [ ]  **Responsibility Assignment Matrices (RAM) :**
 - RAM
+
 ![Responsibility Assignment Matrices](https://github.com/fikrunamin/Dental-and-Mouth-Medical-Chatbot/blob/main/images/RAM.PNG)
+
+
 - [Insert List for each of the members for their Roles and Responsibilities).]
 	
 
