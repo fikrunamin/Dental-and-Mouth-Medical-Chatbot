@@ -63,7 +63,7 @@
 
 | Modules/Components |  Budget  | Schedule 			     | Responsibility 				     |
 |--------------------|----------|------------------------------------|-----------------------------------------------|
-| Chatbot System     | RM408360 | 15 October 2020 - 25 December 2020 | Collect Data, Build Model, & Training Testing |
+| Chatbot System     | RM408 360.00 | 15 October 2020 - 25 December 2020 | Collect Data, Build Model, & Training Testing |
 
 
 ## C.  IMPLEMENTING THE PROJECT PLAN 
@@ -79,9 +79,9 @@
 | Task | Estimated Costs | Notes |
 |------|-----------------|-------|
 | Acquisition |RM250 600.00| Hardware, Software |
-| Design |RM 4 260.00|Dataset, License|
-| Restoration |RM 153 500.00|Administration, Insurance|
-|**TOTAL**|**RM408 360**|*estimated*|
+| Design |RM4 260.00|Dataset, License|
+| Restoration |RM153 500.00|Administration, Insurance|
+|**TOTAL**|**RM408 360.00**|*estimated*|
 
 
 - [ ]   **Milestone Chart**
