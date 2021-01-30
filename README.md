@@ -140,4 +140,4 @@ Medical Report
 ## F.   PROJECT PRESENTATION 
 - [ ]  [Embed youtube video] or [insert your youtube video link like the example below]
 
-[![Ideaku](https://img.youtube.com/vi/1ByNYN1LQAI/0.jpg)](http://www.youtube.com/watch?v=1ByNYN1LQAI "Ideaku")
+[![Ideaku](https://img.youtube.com/vi/1ByNYN1LQAI/0.jpg)](https://utemedu-my.sharepoint.com/:v:/g/personal/b031810296_student_utem_edu_my/EUxQdfblWT9Gs-mU14WU1gcBKV5f7aevBKXyd32vPYOrDw?e=LmwS5z)
