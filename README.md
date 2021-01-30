@@ -140,4 +140,4 @@ Medical Report
 ## F.   PROJECT PRESENTATION 
 - Below is our project presentation video that we already uploaded in the OneDrive
 
-[![Presentation](https://github.com/fikrunamin/Dental-and-Mouth-Medical-Chatbot/blob/main/images/thumbnail.png)](https://utemedu-my.sharepoint.com/:v:/g/personal/b031810296_student_utem_edu_my/EUxQdfblWT9Gs-mU14WU1gcBKV5f7aevBKXyd32vPYOrDw?e=LmwS5z)
+[![Presentation](https://github.com/fikrunamin/Dental-and-Mouth-Medical-Chatbot/blob/main/images/thumbnail.PNG)](https://utemedu-my.sharepoint.com/:v:/g/personal/b031810296_student_utem_edu_my/EUxQdfblWT9Gs-mU14WU1gcBKV5f7aevBKXyd32vPYOrDw?e=LmwS5z)
